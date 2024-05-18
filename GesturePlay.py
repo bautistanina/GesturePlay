@@ -67,7 +67,7 @@ gesture_label.grid(row=0, column=0, columnspan=2, pady=(10, 0))
 gesture_images = {
     "Volume Up": "https://cdn1.iconfinder.com/data/icons/rounded-set-6/48/volume-up-512.png",
     "Volume Down": "https://cdn1.iconfinder.com/data/icons/rounded-set-6/48/volume-down-512.png",
-    "Play/Pause": "https://whatemoji.org/wp-content/uploads/2020/07/Play-Or-Pause-Button-Emoji.png",
+    "Play/Pause": "https://www.pngrepo.com/download/402495/play-or-pause-button.png",
     "No gesture detected": "https://cdn.pixabay.com/photo/2014/04/03/10/11/exclamation-mark-310101_960_720.png"
 }
 
